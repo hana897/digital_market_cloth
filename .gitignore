@@ -1,0 +1,16 @@
+# Database
+database.sqlite
+*.sqlite
+*.db
+
+# Uploads and temporary images
+uploads/
+images/1767052671_image1.webp
+# Note: Keeping the images/ directory might be desired for the showcase images, 
+# but usually, user uploads and generated images are ignored.
+# I'll leave the general images/ folder alone for now unless it's huge.
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db
